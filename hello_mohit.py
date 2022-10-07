@@ -1,4 +1,4 @@
-name=input("who you are?")
+name=input("who are you?")
 if name=="mohit":
   print("hello mohit")
 else:
